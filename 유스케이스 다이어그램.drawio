@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T10:51:46.782Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="09gfJs3soFxNANPMEpK2" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T10:51:54.604Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="6ykkpchPOLqLAslDZcaC" version="24.4.4" type="github">
   <diagram name="페이지-1" id="kTxHLPrTkegDMbKhw0Za">
     <mxGraphModel dx="1523" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -145,13 +145,6 @@
             <Array as="points">
               <mxPoint x="800" y="490" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sny4xnvnZcDnFGPtRo1z-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="150" y="910" as="sourcePoint" />
-            <mxPoint x="230" y="910" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sny4xnvnZcDnFGPtRo1z-8" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.945;entryY=0.234;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="T_pyh8g8CapDt7LugDOk-3" target="T_pyh8g8CapDt7LugDOk-26">
