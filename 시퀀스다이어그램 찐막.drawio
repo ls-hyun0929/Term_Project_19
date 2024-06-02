@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T12:08:44.765Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="q0gnFJSD0yX9Cz4socmr" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T12:30:52.515Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="8ABGU2ZH360P7bLK5TPK" version="24.4.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1645" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,7 +576,7 @@
         <mxCell id="Uq8fsckJXWyvVGgmsuGW-308" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Uq8fsckJXWyvVGgmsuGW-275">
           <mxGeometry x="252.10790464240904" y="427.0027848101266" width="8.90840652446675" height="81.31329113924052" as="geometry" />
         </mxCell>
-        <mxCell id="Uq8fsckJXWyvVGgmsuGW-312" value="프로젝트생성" style="whiteSpace=wrap;html=1;" vertex="1" parent="Uq8fsckJXWyvVGgmsuGW-275">
+        <mxCell id="Uq8fsckJXWyvVGgmsuGW-312" value="이슈 상세정보 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="Uq8fsckJXWyvVGgmsuGW-275">
           <mxGeometry x="-60" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Uq8fsckJXWyvVGgmsuGW-309" value="이슈생성" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
