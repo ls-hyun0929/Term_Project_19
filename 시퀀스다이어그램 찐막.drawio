@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T19:41:10.694Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="pkRsyve9_yTn_ubAxftN" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T19:58:23.555Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="69dG3mnSpxogCk3vfS0L" version="24.4.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2098" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -1101,6 +1101,9 @@
             <mxPoint x="1299.467904642409" y="2255.208987341772" as="sourcePoint" />
             <mxPoint x="1061.3800752823088" y="2254.8340506329114" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uq8fsckJXWyvVGgmsuGW-547" value="Model이 추가되어야&lt;br&gt;할 것 같은데;.??" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="877.1800000000001" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
