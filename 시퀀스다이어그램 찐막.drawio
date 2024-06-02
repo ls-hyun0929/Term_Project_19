@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T14:14:56.729Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="X-RZjdLjW076Lu26NC5S" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T15:55:50.422Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="SKjJJH6pQDmXahD6gkK1" version="24.4.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1949" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
             <mxPoint x="15.144291091593475" y="416.72158227848104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uq8fsckJXWyvVGgmsuGW-204" value="issueCreate" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="Uq8fsckJXWyvVGgmsuGW-173">
+        <mxCell id="Uq8fsckJXWyvVGgmsuGW-204" value="issueList" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="Uq8fsckJXWyvVGgmsuGW-173" target="Uq8fsckJXWyvVGgmsuGW-181">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="261.01429109159346" y="296.99974683544303" as="sourcePoint" />
             <mxPoint x="394" y="297" as="targetPoint" />
@@ -140,7 +140,7 @@
         <mxCell id="Uq8fsckJXWyvVGgmsuGW-206" value="saveIssue(IssueDto issueDto)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Uq8fsckJXWyvVGgmsuGW-173">
           <mxGeometry x="549.6486825595985" y="326.15664556962025" width="107.79171894604767" height="26.200949367088608" as="geometry" />
         </mxCell>
-        <mxCell id="Uq8fsckJXWyvVGgmsuGW-192" value="이슈 찾기 버튼" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;endFill=1;entryX=0.471;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Uq8fsckJXWyvVGgmsuGW-173" target="Uq8fsckJXWyvVGgmsuGW-174">
+        <mxCell id="Uq8fsckJXWyvVGgmsuGW-192" value="/issueList(이슈 찾기 버튼)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;endFill=1;entryX=0.471;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Uq8fsckJXWyvVGgmsuGW-173" target="Uq8fsckJXWyvVGgmsuGW-174">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15.144291091593459" y="277.0022151898735" as="sourcePoint" />
             <mxPoint x="252.107904642409" y="277.0022151898735" as="targetPoint" />
@@ -629,6 +629,12 @@
               <mxPoint x="557" y="1088" />
               <mxPoint x="557" y="1090" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uq8fsckJXWyvVGgmsuGW-337" value="issueList" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="Uq8fsckJXWyvVGgmsuGW-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260.0042910915931" y="249.99974683544303" as="sourcePoint" />
+            <mxPoint x="1530" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
